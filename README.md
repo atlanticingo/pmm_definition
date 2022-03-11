@@ -1,6 +1,6 @@
 # pmm_definition
 This repository contains the NCL (https://www.ncl.ucar.edu/) code used for my analysis of interannual variability in the subtropical North Pacific.
-Specifically, the project aims to critically reexamine the definition of the Pacific Meridional Mode, which is thought to dominate variability in the region.
+Specifically, the project aims to critically reexamine the definition of the Pacific Meridional Mode (PMM), which is thought to dominate variability in the region.
 
 Note that this repository only contains the code. It is meant to document how the analysis underlying the manuscript was performed. In order to reproduce the manuscript figures, several data sets will be needed. Specifically, skin temperature and 10m wind components from the NCEP/NCAR reanalysis and from the CMIP6 experiment piControl will be needed. These are freely available online. See here for the NCEP/NCAR reanalysis https://psl.noaa.gov/data/gridded/data.ncep.reanalysis.html, and here for the CMIP6 output https://esgf-node.llnl.gov/search/cmip6/. 
 
